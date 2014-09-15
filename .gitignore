@@ -1,0 +1,26 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build Tools
+.buildpath
+/target/
+/.externalToolBuilders/
+cache.properties
+hook.version
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Local developer stuff
+/vendor/
+composer.lock
+.sass-cache
+*.css
+*.txt
